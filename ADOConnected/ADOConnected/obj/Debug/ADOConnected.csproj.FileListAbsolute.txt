@@ -1,0 +1,7 @@
+C:\Users\Mangai\source\repos\ADOConnected\ADOConnected\bin\Debug\ADOConnected.exe.config
+C:\Users\Mangai\source\repos\ADOConnected\ADOConnected\bin\Debug\ADOConnected.exe
+C:\Users\Mangai\source\repos\ADOConnected\ADOConnected\bin\Debug\ADOConnected.pdb
+C:\Users\Mangai\source\repos\ADOConnected\ADOConnected\obj\Debug\ADOConnected.csprojAssemblyReference.cache
+C:\Users\Mangai\source\repos\ADOConnected\ADOConnected\obj\Debug\ADOConnected.csproj.CoreCompileInputs.cache
+C:\Users\Mangai\source\repos\ADOConnected\ADOConnected\obj\Debug\ADOConnected.exe
+C:\Users\Mangai\source\repos\ADOConnected\ADOConnected\obj\Debug\ADOConnected.pdb
