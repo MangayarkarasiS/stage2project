@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 
 namespace ADOConnected
 {
+    class teach
+    { }
     abstract class pp
     {
       public   void nonn()
